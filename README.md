@@ -21,7 +21,7 @@ It demonstrates Infrastructure as Code (IaC) best practices with modular design.
 |------------|--------|-------------|
 | **AMI ID** | `ami-01a00762f46d584a1` | Ubuntu Server 26.04 LTS (HVM), SSD Volume Type, 64-bit |
 | **Instance Name** | `${var.env}-app-server` | Auto-tagged per environment (Dev, Prod, Test) |
-| **Instance Type** | `t3.micro` | Free Tier eligible |
+| **Instance Type** | `t3.medium` | Free Tier eligible |
 | **Region** | `ap-south-1` | AWS Mumbai region |
 | **Storage Root Volume** | `8 GB` | Default root volume only |
 | **Storage Type** | `gp3` | SSD-backed |
