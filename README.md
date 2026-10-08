@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+<img src="https://octodex.github.com/images/neurocats_FULL.png" height="300px" />
 
 </div>
 
